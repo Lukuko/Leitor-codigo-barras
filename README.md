@@ -1,0 +1,1 @@
+# Leitor-codigo-barras
